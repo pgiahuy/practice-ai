@@ -1,0 +1,2 @@
+MSSV,HoTen,NamSinh,DiaChi,GioiTinh
+2304,Phan Hong Tham,2001,HCM,Nu
